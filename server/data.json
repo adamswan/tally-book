@@ -83,6 +83,19 @@
       "date": "2025-01-03T11:14:56.036Z",
       "useFor": "food",
       "id": 19
+    },
+    {
+      "id": "b135",
+      "type": "pay",
+      "money": 0,
+      "useFor": "drinks"
+    },
+    {
+      "id": "4288",
+      "type": "pay",
+      "money": -9999,
+      "date": "2020-01-12T16:00:00.000Z",
+      "useFor": "travel"
     }
   ]
 }
